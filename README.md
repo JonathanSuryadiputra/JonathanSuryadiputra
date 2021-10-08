@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanSuryadiputra
 - 👀 I’m interested in coding (obv!), creating artworks, playing the violin.
-- 🌱 I’m currently learning C++, Python, Java, and Web Development.
-- 💞️ I’m looking to collaborate on blockchains, I want to learn more about it as it is an intriguing data structure.
+- 🌱 I’m currently a final year software development student and a Google Developer Student Club lead.
+- 💞️ If you're interested to speak at a tech event for the Google Developer Student Club IT Carlow, contact me on LinkedIn.
 - 📫 How to reach me: on LinkedIn: https://www.linkedin.com/in/jonathan-suryadiputra/
 
 <!---
